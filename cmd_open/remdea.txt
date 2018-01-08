@@ -1,0 +1,9 @@
+1. 复制 System32  	->   C:\Windows\System32
+2. 复制 Git\usr\bin 	->   D:\Program Files\Git\usr\bin 
+
+### 测试
+在cmd里输入 open
+
+open  				打开当前路径文件夹
+open path 			path如果是文件就会打开，文件夹就会打开文件夹
+open -R path 			选中path文件
